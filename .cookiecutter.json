@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/Users/sergey/work/djangoheads/django_dataslice",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Sergey Bershadsky",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 2 - Pre-Alpha",
+  "email": "sergio.bershadsky@gmail.com",
+  "friendly_name": "Django Dataslice",
+  "github_user": "sergio-bershadsky",
+  "license": "Apache-2.0",
+  "package_name": "django_dataslice",
+  "project_name": "django-dataslice",
+  "version": "0.0.1"
+}
