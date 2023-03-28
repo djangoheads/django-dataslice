@@ -18,4 +18,4 @@ class DataSliceAdmin(ModelAdmin):
     model = DataSlice
     menu_label = "Data Slice"
     menu_icon = "table"
-    list_display = ("name", "get_top")
+    list_display = ("name", )
